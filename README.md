@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sbgneto
+- 👀 I’m interested in learning and collaborating with other programmers.
+- 🌱 I’m currently learning about python and SQL.
+- 💞️ I’m looking to collaborate on machine learning and IA.
+- 📫 How to reach me... mail to sbgneto@gmail.com
